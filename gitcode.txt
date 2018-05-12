@@ -22,5 +22,8 @@ Checkout
 Reset(Green -> Red)
 1. git reset <commit_hash>
 
+Merge(goto destination branch)
+1. git merge <source_branch> [<destination_branch>]
+
 log:
 1. git log
