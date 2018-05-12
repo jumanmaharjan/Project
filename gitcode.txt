@@ -10,7 +10,7 @@ Remote:
 
 PULL Push:
 1. git pull <remote_name>
-2. git push <remote_name>
+2. git push <remote_name> <branch_name>
 
 Branch:
 1. git branch <branch_name>
