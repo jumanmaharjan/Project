@@ -9,7 +9,7 @@ Remote:
 2. git remote rm <remote_name>
 
 PULL Push:
-1. git pull <remote_name>
+1. git pull <remote_name> <branch_name>
 2. git push <remote_name> <branch_name>
 
 Branch:
@@ -17,6 +17,10 @@ Branch:
 
 Checkout
 1. git checkout <dest_branch_name>
+2. git checkout -- <filename> #undo like ctrl+Z
+
+Reset(Green -> Red)
+1. git reset <commit_hash>
 
 log:
 1. git log
