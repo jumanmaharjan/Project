@@ -5,8 +5,8 @@
 
 
 Remote:
-1. git add remote <remote_name> <https://.......>
-2. git rm remote <remote_name>
+1. git remote add <remote_name> <https://.......>
+2. git remote rm <remote_name>
 
 PULL Push:
 1. git pull <remote_name>
