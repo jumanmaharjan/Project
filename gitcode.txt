@@ -1,0 +1,22 @@
+1. git init
+2. git status
+3. git add <filename>
+4. git commit-m "My first git project"
+
+
+Remote:
+1. git add remote <remote_name> <https://.......>
+2. git rm remote <remote_name>
+
+PULL Push:
+1. git pull <remote_name>
+2. git push <remote_name>
+
+Branch:
+1. git branch <branch_name>
+
+Checkout
+1. git checkout <dest_branch_name>
+
+log:
+1. git log
