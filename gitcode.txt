@@ -1,7 +1,7 @@
 1. git init
 2. git status
 3. git add <filename>
-4. git commit-m "My first git project"
+4. git commit -m "My first git project"
 
 
 Remote:
